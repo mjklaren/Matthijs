@@ -19,7 +19,7 @@ This animatronic was build using an existing skeleton ordered from Amazon (about
 
 - A skeleton (obviously) and cape.
 - 4 linear actuators for lifing the arm, stretching the arm, moving the stick forward and letting the whole skeleton lean forward.
-- Some nuts and bolts and other parts for the shoulder mechanism.
+- Some nuts and bolts and other parts for the arm-lifting mechanism.
 - Two L298N DC motor controllers for the linear actuators.
 - 3 SG90 servo motors (180 degree) and some metal wire to move the head and the jaw.
 - A PCA9685 I2C servo controller for the servos.
