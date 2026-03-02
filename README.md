@@ -20,6 +20,7 @@ This animatronic was build using an existing skeleton ordered from Amazon (about
 - A DY-SV17F soundboard to play sound effects and an amplifier.
 - ...and plenty of tiewraps, wiring and tape!
 
+!(https://github.com/mjklaren/Matthijs/blob/main/build/00.%20Front%20view.jpg?raw=true)
 For more details on the build, check [these photos in the build folder](https://github.com/mjklaren/Matthijs/tree/main/build). Sound files where generated using Elevenlabs, a bit of imagination to think of a non-existing language and Audacity to make the voices sound lower and add some echo. The used sound files can be found in the [sound folder](https://github.com/mjklaren/Matthijs/tree/main/Sounds).
 
 The software for controlling the animatronic was written in C and used [the TISM framework on Github](https://github.com/mjklaren/TISM). TISM is a framework to allow multiple tasks to run on just one Raspberry Pi microcontroller. In this build, TISM's built-in scheduler was pretty usefull in coordinating lights and movements, so check the source code and the Github page of TISM.
