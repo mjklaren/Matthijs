@@ -38,7 +38,7 @@ For more details on the build, check [these photos in the build folder](https://
 
 
 ## The software
-The software for controlling the animatronic was written in C and used [the TISM framework on Github](https://github.com/mjklaren/TISM). TISM is a framework to allow multiple tasks to run on just one Raspberry Pi microcontroller. In this build, TISM's built-in scheduler was pretty usefull in coordinating lights and movements, so check the source code and the Github page of TISM. Furthermore, C code is added for controlling the DY-SV17F sound board and the W2812b LEDs.
+The software for controlling the animatronic was written in C and used [the TISM framework on Github](https://github.com/mjklaren/TISM). TISM is a framework to allow multiple tasks to run on just one Raspberry Pi microcontroller. In this build, TISM's built-in scheduler was pretty usefull in coordinating lights, sounds and movements, so check the source code and the Github page of TISM. Furthermore, C code is added for controlling the DY-SV17F sound board and the W2812b LEDs.
 
 ## The control board
 Unfortunately I don't have circuit diagrams available, but the picture below shows how the control board was made. A lot of pragmatism here :) 
