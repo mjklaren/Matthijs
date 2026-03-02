@@ -45,6 +45,10 @@ Unfortunately I don't have circuit diagrams available, but the picture below sho
 
 <p align="center"><img src="https://github.com/mjklaren/Matthijs/blob/main/build/08.%20Circuit%20board.jpg" alt="The circuit board" width="500"></p>
 
+I hope this is usefull for your next build!
+
+
+
 
 
 
