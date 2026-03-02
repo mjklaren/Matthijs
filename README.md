@@ -25,7 +25,7 @@ This animatronic was build using an existing skeleton ordered from Amazon (about
 - A PCA9685 I2C servo controller for the servos.
 - One Raspberry Pi Pico.
 - Two multi-color LEDs for the eyes.
-- A candle shaped lightbulb, a hollow stick made from carton (which unfortunately broke after performing) and a relay board to turn the candle on.
+- A candle shaped lightbulb, a hollow stick made from cardboard (which unfortunately broke after performing) and a relay board to turn the candle on and off.
 - A strip of WS2812B LEDs and a few capacitors to limit noise on the powerlines.
 - A DY-SV17F soundboard to play sound effects and an amplifier.
 - ...and plenty of tiewraps, wiring and tape!
