@@ -34,7 +34,7 @@ This animatronic was build using an existing skeleton ordered from Amazon (about
 
 
 ## The build
-For more details on the build, check [these photos in the build folder](https://github.com/mjklaren/Matthijs/tree/main/build). Sound files where generated using Elevenlabs, a bit of imagination to think of a non-existing language and Audacity to make the voices sound lower and add some echo. The used sound files can be found in the [sound folder](https://github.com/mjklaren/Matthijs/tree/main/Sounds).
+For more details on the build, check [these photos in the build folder](https://github.com/mjklaren/Matthijs/tree/main/build) (some photos cleaned up using Gemini). Sound files where generated using Elevenlabs AI, a bit of imagination to think of a non-existing language and Audacity to make the voices sound lower and add some echo. The used sound files can be found in the [sound folder](https://github.com/mjklaren/Matthijs/tree/main/Sounds).
 
 
 ## The software
